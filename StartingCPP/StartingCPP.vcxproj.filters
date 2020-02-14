@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Algorithem">
+      <UniqueIdentifier>{2807cc75-ea6d-4577-b72d-c1a8f365f827}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2019">
+      <UniqueIdentifier>{b8abf766-a6d2-49d8-8f6a-937726fe985c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassA.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassB.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportC.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Array.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1231_소풍.cpp">
+      <Filter>소스 파일\Algorithem</Filter>
+    </ClCompile>
+    <ClCompile Include="082501.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082502.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082503.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082701.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082702.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082703.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082801.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082802.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082803.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082804.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082901.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082902.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082903.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="082904.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="083001.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="083002.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="083003.c">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="083004.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="083101.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="083102.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="083103.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="083104.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090201.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090202.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090301.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090302.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090303.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090501.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090502.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090503.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090601.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090602.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090603.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090604.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090801.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="090802.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091001.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091301.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091302.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091303.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091304.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091401.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091402.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091403.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091404.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091501.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091502.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091701.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091702.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091801.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091901.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091902.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="091903.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="092001.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="092002.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="092201.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="092202.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="092203.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="092204.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="092501.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="092502.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="102501.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="102502.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="102503.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="102504.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="102901.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="103101.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="103102.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="103103.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="110201.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="110202.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="110203.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="110301.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="110302.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="110303.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="110304.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="110601.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="110602.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="110603.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="110604.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="110605.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="122001.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="122002.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="122003.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="122004.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="122005.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="122006.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="122701.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="122702.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="122801.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="122802.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="122901.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="123101.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportC.cpp">
+      <Filter>소스 파일\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="010101.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010102.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0102_재귀.cpp">
+      <Filter>소스 파일\Algorithem</Filter>
+    </ClCompile>
+    <ClCompile Include="010301.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010302.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010303.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010304.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010501.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010502.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010701.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010702.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010703.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010901.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010902.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010903.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010904.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011101.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011102.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011103.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011104.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011301.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011302.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011303.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011304.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011405.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011501.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011502.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011503.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011504.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011901.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="011902.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012101.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012102.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012103.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012104.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012105.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012301.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012302.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012303.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012601.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012602.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012603.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012801.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012802.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012803.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="012804.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="013001.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="013002.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="013003.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="013101.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="013102.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="013103.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="020201.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="020202.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="020301.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="020302.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="020303.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="020501.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="020502.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="020503.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="020504.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="020801.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="020802.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="020803.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="021001.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="021002.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="021003.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="021004.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="021005.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="021006.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="021201.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="021202.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="021203.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="021204.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="021205.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="021206.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
